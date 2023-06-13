@@ -1,2 +1,3 @@
 #!/bin/bash 
-echo "$PATH" | tr ':''\n' | wc -1
+echo $(('echo $PATH I grep -o ":/" I we-I'+ 1)) 
+
